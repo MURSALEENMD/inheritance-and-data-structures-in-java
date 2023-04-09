@@ -1,7 +1,7 @@
 /**
  * Superclass representing an Animal.
  * To be extended by specific types of animals.
- * @author lbrandon
+ * @author MURSALEEN
  *
  */
 public class Animal {
