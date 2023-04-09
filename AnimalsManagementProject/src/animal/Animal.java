@@ -3,7 +3,7 @@ package animal;
 /**
  * Represents a generic Animal.
  * We will create subclasses (dog, cat, etc.) that will inherit from this class.
- * @author lbrandon
+ * @author MURSALEEN
  *
  */
 public class Animal {
