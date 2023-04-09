@@ -1,6 +1,6 @@
 /**
  * Represents a Dog.
- * @author lbrandon
+ * @author MURSALEEN
  *
  */
 public class Dog extends Animal {
