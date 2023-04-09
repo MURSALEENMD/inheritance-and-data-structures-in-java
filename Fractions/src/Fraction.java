@@ -1,6 +1,6 @@
 /**
  * Represents a fraction with numerator and denominator.
- * @author lbrandon
+ * @author MURSALEEN
  *
  */
 public class Fraction {
