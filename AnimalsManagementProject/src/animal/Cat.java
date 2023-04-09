@@ -2,7 +2,7 @@ package animal;
 
 /**
  * Represents a cat and extends the Animal class.
- * @author lbrandon
+ * @author MURSALEEN
  *
  */
 public class Cat extends Animal {
